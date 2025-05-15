@@ -11,5 +11,6 @@
 	},
 	"[luau]": {
 		"editor.formatOnSave": true
-	},
+  },
+  "luau-lsp.diagnostics.workspace": true,
 }
